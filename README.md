@@ -1,4 +1,4 @@
-# Hi there, I’m wanat03 👋
+# Hi there, I’m wanatchaporn 👋
 Student at College of Computing, Khon Kaen University
 
 - 🔭 I’m currently working on learning code and building cool stuff.
